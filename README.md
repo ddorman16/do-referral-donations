@@ -3,20 +3,20 @@ Ready to start using DigitalOcean? Sign up using the referral link of your favor
 
 # For OSS projects or non-profits
 
-First:
+*First:*
 
 1. Create an account on digitalocean.com
 2. Add a valid credit card to your account
 3. Copy and paste your referral link from the 'settings' page
 
-Then:
+*Then:*
 
 1. Submit a PR to to add you referral link
 2. Your comment should include the email address used on DigitalOcean and a link to your project / non-profit website.
 
-#For developers looking to start using DigitalOcean
+# For developers looking to start using DigitalOcean
 
-* Please note, this is for new accounts only
+**Please note, this is for new accounts only**
 
 1. Review the list of projects you'd like to support and click on your link of choice
 2. Create your DigitalOcean account and add a valid credit card
