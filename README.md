@@ -6,7 +6,7 @@ Ready to start using DigitalOcean? Sign up using the referral link of your favor
 *First:*
 
 1. Create an account on digitalocean.com
-2. Add a valid credit card to your account
+2. Add a valid credit card
 3. Copy and paste your referral link from the 'settings' page
 
 *Then:*
