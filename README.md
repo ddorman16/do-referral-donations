@@ -1,5 +1,5 @@
 # do-referral-donations
-Ready to start using DigitalOcean? Sign up using the referral link of your favorite project or non-profit so they can receive free hosting on DigitalOcean.
+Ready to start using DigitalOcean? [Sign up](https://digitalocean.com) using the referral link of your favorite project or non-profit so they can receive free hosting on DigitalOcean.
 
 # For OSS projects or non-profits
 
