@@ -11,7 +11,7 @@ Ready to start using DigitalOcean? Sign up using the referral link of your favor
 
 *Then:*
 
-1. Submit a PR to to add you referral link
+1. Submit a Pull Request to to add you referral link
 2. Your comment should include the email address used on DigitalOcean and a link to your project / non-profit website.
 
 # For developers looking to start using DigitalOcean
