@@ -20,4 +20,4 @@ Ready to start using DigitalOcean? Sign up using the referral link of your favor
 
 1. Review the list of projects you'd like to support and click on your link of choice
 2. Create your DigitalOcean account and add a valid credit card
-3. Once you spend $25 the project you supported will receive $25 in free hosting credit!
+3. Once you spend $25 the project you supported will receive $25 in free hosting credits!
